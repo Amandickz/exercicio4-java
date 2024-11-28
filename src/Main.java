@@ -34,6 +34,11 @@ public class Main {
 		Exercicio6 exe6 = new Exercicio6();
 		exe6.execucao();
 		
+		//Exercício 7
+		System.out.println("--- Exercício 7 - Quadrado e Cubo ---");
+		Exercicio7 exe7 = new Exercicio7();
+		exe7.execucao();
+		
 		System.exit(0);
 		
 	}
