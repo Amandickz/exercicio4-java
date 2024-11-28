@@ -19,6 +19,11 @@ public class Main {
 		Exercicio3 exe3 = new Exercicio3();
 		exe3.execucao();
 		
+		//Exercício 4
+		System.out.println("--- Exercício 4 - Divisão ---");
+		Exercicio4 exe4 = new Exercicio4();
+		exe4.execucao();
+		
 		System.exit(0);
 		
 	}
